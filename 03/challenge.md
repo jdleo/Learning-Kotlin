@@ -6,6 +6,10 @@ The second line should contain float division.
 ## Input Format  
 First line will be **a**, Second line will be **b**  
   
-## Sample Input
-'''4  
-3'''
+### Sample Input
+```4  
+3```
+
+### Sample Output
+```1  
+1.3333333```
