@@ -7,9 +7,13 @@ The second line should contain float division.
 First line will be **a**, Second line will be **b**  
   
 ### Sample Input
-```4  
-3```
+```
+4  
+3
+```
 
 ### Sample Output
-```1  
-1.3333333```
+```
+1  
+1.3333333
+```
